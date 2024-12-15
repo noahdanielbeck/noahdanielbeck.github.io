@@ -2,7 +2,7 @@
 title: about
 permalink: /about/
 layout: page
-excerpt: Thanks to [Jonas](jnsbck.de) for making me this website.
+excerpt: Thanks to [Jonas](https://jnsbck.de) for making me this website.
 comments: false
 ---
 
