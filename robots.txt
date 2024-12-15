@@ -1,0 +1,10 @@
+#Block all crawlers incl AdsBot
+User-agent: *
+Disallow: /
+
+User-agent: AdsBot-Google
+Disallow: /
+
+# Block google from indexing all images
+User-agent: Googlebot-Image
+Disallow: /
