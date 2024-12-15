@@ -8,7 +8,7 @@ comments: false
 
 ## About this Website
 
-Thanks to [Jonas](jnsbck.de) for making me this website.
+Thanks to [Jonas](https://jnsbck.de) for making me this website.
 
 <hr>
 
